@@ -1,5 +1,8 @@
 # Programowanie w językach funkcyjnych
 
+## Zadania
+- [Laboratorium nr 1: Wprowadzenie](https://classroom.github.com/a/e1WczlGP/)
+
 ## Tematyka
 
 1. **Interpreter w Pythonie, Wykonywanie programu. Typy i operacje.
@@ -43,6 +46,5 @@
 - Termin wykonania ostatniego zadania będzie ograniczony do końca trwania zajęć.
 - Warunkiem zaliczenia przedmiotu jest uzyskanie min 50% punktów z każdego spotaknia laboratoryjnego.
 
-
-## Zadania
-- [Laboratorium nr 1: Wprowadzenie](https://classroom.github.com/a/e1WczlGP/)
+## Materiały
+[Materiały](https://github.com/Kajkitsu/pjf/tree/master/Materia%C5%82y%20od%20A)
