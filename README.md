@@ -1,7 +1,10 @@
 # Programowanie w językach funkcyjnych
 
 ## Zadania
-- [Laboratorium nr 1: Wprowadzenie](https://classroom.github.com/a/e1WczlGP/)
+- [Zad nr 1: Wprowadzenie](https://classroom.github.com/a/e1WczlGP/)
+- [Zad nr 2b: Programowanie obiektowe Sklep](https://classroom.github.com/a/6XPn_R0U)
+- [Zad nr 2a: Programowanie obiektowe Wampiry](https://classroom.github.com/a/S_xcf11m)
+
 
 ## Tematyka
 
