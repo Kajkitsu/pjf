@@ -1,9 +1,16 @@
 # Programowanie w językach funkcyjnych
 
-## Zadania
+## Zadania 21KB1S0
 - [Zad nr 1: Wprowadzenie](https://classroom.github.com/a/e1WczlGP/)
 - [Zad nr 2b: Programowanie obiektowe Sklep](https://classroom.github.com/a/6XPn_R0U)
 - [Zad nr 2a: Programowanie obiektowe Wampiry](https://classroom.github.com/a/S_xcf11m)
+
+
+## Zadania 21IL1S0
+- [Zad nr 1: Wprowadzenie](https://classroom.github.com/a/RpfJFxjc)
+- [Zad nr 2b: Programowanie obiektowe Sklep](https://classroom.github.com/a/6L2oANBP)
+- [Zad nr 2a: Programowanie obiektowe Wampiry](https://classroom.github.com/a/y2ObC3O0)
+  
 
 
 ## Tematyka
